@@ -1,2 +1,2 @@
-# hello-world
+# Prognum-repo
 Practice
